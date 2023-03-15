@@ -1,5 +1,5 @@
 # Auto MC Server
-Thank you for using Auto MC Server (AMCS (currently v0.1 ALPHA)!
+Thank you for using Auto MC Server (AMCS) (currently v0.1 ALPHA)!
 
 Please download the binaries attached (either the ZIP file or the executable and the `README.txt` file.
 
